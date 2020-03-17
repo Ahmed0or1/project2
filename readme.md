@@ -1,4 +1,4 @@
-# PROJECT@
+# PROJECT2
  Laravel 5.8
 
 ## Installation
