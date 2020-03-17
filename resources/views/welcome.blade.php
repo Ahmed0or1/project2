@@ -86,16 +86,16 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracastssss</a>
+                    <a href="https://laracasts.com">Laracast</a>
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://blog.laravel.com">Blog</a>
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <hr>
+                <h3>TEST</h3>
             </div>
         </div>
-        <hr>
-        <h3>TESTcomposer</h3>
     </body>
 </html>
